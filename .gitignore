@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.lib
+*.dll
+
+# Runtime task storage
+tasks.txt
+*.txt.bak
+
+# IDE / Editor artifacts
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
